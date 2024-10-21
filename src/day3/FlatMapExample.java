@@ -1,6 +1,6 @@
-import javax.security.auth.Subject;
+package day3;
+
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class FlatMapExample {
 

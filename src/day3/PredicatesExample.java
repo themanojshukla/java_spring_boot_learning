@@ -1,3 +1,5 @@
+package day3;
+
 import java.util.function.Predicate;
 
 public class PredicatesExample {
